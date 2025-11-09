@@ -15,5 +15,4 @@ public class Main {
         Member3.main(args);
         }
     
-    
 }
